@@ -1,0 +1,7 @@
+c:\users\jack\documents\visual studio 2015\Projects\UnitTests\UnitTests\bin\Debug\UnitTests.dll
+c:\users\jack\documents\visual studio 2015\Projects\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\jack\documents\visual studio 2015\Projects\UnitTests\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\jack\documents\visual studio 2015\Projects\UnitTests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\jack\documents\visual studio 2015\Projects\UnitTests\UnitTests\obj\Debug\UnitTests.dll
+c:\users\jack\documents\visual studio 2015\Projects\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Jack\documents\visual studio 2015\Projects\UnitTests\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
